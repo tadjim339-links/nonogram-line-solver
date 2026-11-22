@@ -1,0 +1,9 @@
+{
+  "name": "nonogram-line-solver",
+  "version": "1.0.0",
+  "description": "Nonogram clues, a line-by-line solver and a solvable-by-logic check. No dependencies.",
+  "main": "index.js",
+  "scripts": { "test": "node test.js" },
+  "keywords": ["nonogram", "puzzle", "solver", "picture-logic"],
+  "license": "MIT"
+}
